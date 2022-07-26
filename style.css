@@ -1,0 +1,24 @@
+body{
+    background-color: #E5E5E5;
+}
+.bg_header{
+    background-color: #FFF9F4;
+}
+.my_cart_icon{
+    width: 1.75rem;
+}
+.buy_now_btn{
+    /* width: 170px; */
+    /* height: 60px; */
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    /* border-radius: 10px; */
+}
+.my_card_img{
+    background-color: #F1F1F1;
+}
+.orange_text{
+    color: #FA804C;
+}
+.my_icon{
+    width: 80px;
+}
